@@ -1,1 +1,3 @@
 # Dieta
+O problema consiste em criar uma dieta personalizada com base nas características individuais do usuário, como peso, gênero, e necessidades nutricionais. Utilizando uma tabela nutricional que contém informações detalhadas sobre os valores de nutrientes de diversos alimentos, o objetivo é selecionar os itens que atendam às quantidades ideais de macronutrientes (como proteínas, carboidratos e gorduras) e micronutrientes (como vitaminas e minerais), respeitando também as calorias diárias recomendadas para cada pessoa. Assim, o sistema busca montar um plano alimentar equilibrado e eficiente, adaptado às necessidades nutricionais e preferências alimentares do usuário.
+
